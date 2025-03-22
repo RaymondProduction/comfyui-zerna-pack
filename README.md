@@ -11,7 +11,7 @@ Zerna Pack is a collection of custom nodes for ComfyUI designed to facilitate ba
 
 1. Clone or download the repository into the `custom_nodes` directory of your ComfyUI installation:
    ```bash
-   git clone https://https://github.com/RaymondProduction/comfyui-zerna-pack.git
+   git clone https://github.com/RaymondProduction/comfyui-zerna-pack.git
    ```
 2. Ensure that ComfyUI is installed and properly configured. No additional dependencies are required as this pack uses only the standard library and ComfyUI core.
 
