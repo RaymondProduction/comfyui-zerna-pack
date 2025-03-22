@@ -1,0 +1,5 @@
+ultradetailed cyberpunk cityscape at night, neon lights reflecting in wet asphalt, futuristic clothing, glowing tattoos, bokeh lights, cinematic composition --style cyberpunk --vibrant --futuristic --sharp --contrast
+victorian steampunk inventor in a foggy street, brass goggles, arcane runes, intricate clockwork, glowing energy, fantasy vibe, warm lighting --style steampunk --vintage --fantasy --detailed
+floating islands, soft pastel clouds, huge eyes in the sky, dreamcore aesthetic, abstract surrealism, lucid dream colors, hazy atmosphere, magical lighting --style surreal --dreamlike --pastel --soft --minimal
+isometric minimal user interface, clean design, soft gradients, flat icons, UI mockup with vibrant accents, futuristic clean interface --style minimal --isometric --ui --flat
+lone survivor in a destroyed city, dust clouds, burned-out cars, realistic textures, cinematic lighting, muted colors, survival gear, overcast skies --style postapocalyptic --gritty --cinematic --realistic
