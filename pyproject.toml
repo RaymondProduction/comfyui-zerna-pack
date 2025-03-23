@@ -1,0 +1,15 @@
+[project]
+name = "zerna-pack"
+description = "A set of nodes for batch processing of text and images."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["# No external dependencies"]
+
+[project.urls]
+Repository = "https://github.com/RaymondProduction/comfyui-zerna-pack"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-zerna-pack"
+Icon = ""
