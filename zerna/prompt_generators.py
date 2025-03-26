@@ -1,4 +1,3 @@
-from tkinter import Image
 from comfy.comfy_types import IO  # 🔶 Part of ComfyUI core, not installed via pip
 import folder_paths               # 🔶 Provided by ComfyUI (not a standard library)
 from PIL import Image             # 🔶 Part of ComfyUI core, not installed via pip
